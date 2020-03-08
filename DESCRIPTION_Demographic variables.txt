@@ -1,0 +1,22 @@
+Grade:
+1-grade 7
+2-grade 8
+4-grade 10
+5-grade 11
+---------------------
+Gender:
+0-male
+1-female
+---------------------
+Lodging or not:
+0-lodging
+1-not
+---------------------
+Only child or not:
+0-only child
+1-not
+---------------------
+Family composition:
+0-single parent
+1-not
+---------------------
